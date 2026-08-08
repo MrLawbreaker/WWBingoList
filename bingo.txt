@@ -30,10 +30,10 @@ Wiebke begreift grundlegende Spielmechaniken nicht
 Wiebke ignoriert fetten Text im Spiel
 Ungewolltes backseatgaming
 Dass das Wort Skepz fällt
-"Bin zu spät wegen essen" 
+Zu spät wegen Essen
 Ein Raid kommt, Wiebke ist AFK.
 Raid kommt
-Wenn "tschüss Kleine Welt" fällt
+"Tschüss kleine Welt"
 "Heute ist Freitag" 
 Es ist Montag und jemand erwähnt die Montagshymne oder Tanzen
 Jemand versteht nicht, dass Renate ein Bot ist
@@ -43,15 +43,15 @@ Wiebke hat sich wieder lang gemacht
 Bits werden gespendet
 Hypetrain startet
 Wiebke ärgert Mods
-Wort "Ungelogen"
-Das Wort "Isso" fällt
+"Ungelogen"
+"Isso"
 Wiebke vom Chat getrollt
 Wiebke trollt den Chat
 Wiebke spricht spanisch
 Wiebke spricht japanisch
 Wiebke erschrickt sich
 Chat geht steil und spamt Emotes
-Es fällt "Hä wie geht das"
+"Hä wie geht das"
 Jemand löst "Meckerwoody" Kanalalarm aus
 Jemand löst "Suppe" Kanalalarm aus
 Tim kommt rein und sein Kanalalarm wird gespielt
@@ -60,4 +60,4 @@ Wiebke ruft nach "Tante Renate"
 Es fällt "Woodruff" 
 Jemand aus dem Chat macht einen absoluten Combobreaker
 "Schade Schokolade"
-Chat von unten nach oben gelesen
+Chat lesen Falschfahrer
