@@ -64,3 +64,5 @@ Chat lesen als Falschfahrer
 "Das ist ein später Problem"
 Wild weirdo appears auf anderer Plattform
 Essen/Getränk wird gebracht
+Spiel crasht
+Stream hat technische Schwierigkeiten
